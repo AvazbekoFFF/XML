@@ -1,1 +1,8 @@
-
+<?xml version="1.0"?>
+<bug_1>
+   <number_of_bug>1</number_of_bug>
+   <from>Developer</from>
+   <id>21</id>
+   <component>UI</component>
+   <bug_severity>normal</bug_severity>
+</bug_1>
